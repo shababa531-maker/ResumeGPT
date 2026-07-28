@@ -2,9 +2,9 @@
 
 An AI-powered Resume Builder that helps users create ATS-friendly resumes with AI-generated content, live preview, and PDF export.
 
-## link
-    https://resumepro-ai.vercel.app/
+## Live Demo
 
+[ResumeGPT Website](https://resumepro-ai.vercel.app/)
 ##  Features
  AI Resume Generation
  ATS-Friendly Templates
